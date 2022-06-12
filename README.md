@@ -1,8 +1,9 @@
 # study-algebraic-effect
 
 ## Journals
-1. Plotkin, G., Power, J.: Algebraic Operations and Generic Effects. Applied Categorical Structures 11, 69–94 (02 2003)
-1. Plotkin, G., Pretnar, M.: Handling Algebraic Effects. Logical Methods in Computer Science 9, (12 2013)
+1. [Plotkin, Gordon, and John Power. "Algebraic operations and generic effects." Applied categorical structures 11.1 (2003): 69-94.](https://scholar.google.com/scholar?q=Algebraic+operations+and+generic+effects)
+1. Pretnar, Matija, and Gordon D. Plotkin. "Handling algebraic effects." Logical methods in computer science 9 (2013).
+1. Wu, Nicolas, Tom Schrijvers, and Ralf Hinze. "Effect handlers in scope." Proceedings of the 2014 ACM SIGPLAN Symposium on Haskell. 2014.
 
 ## Koka
 * https://github.com/koka-lang/koka
