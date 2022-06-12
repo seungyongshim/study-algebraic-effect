@@ -9,6 +9,9 @@
 ## Koka
 * https://github.com/koka-lang/koka
 
+## Eff
+* https://github.com/matijapretnar/eff
+
 ## Haskell
 * https://github.com/fused-effects/fused-effects
 
